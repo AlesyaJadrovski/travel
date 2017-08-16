@@ -1,0 +1,72 @@
+body {
+    background-image: url("/tourist/picture/back.png");
+}
+
+.header {
+    width: 875px;
+    height: auto;
+    margin: auto;
+}
+
+.tourist-rf {
+    display: inline-block;
+}
+
+.logo {
+    //background-image: url("/tourist/picture/logo.png");
+    width: 208px;
+    height: 139px;
+    //display: inline-block;
+}
+
+.line {
+    border-left: 2px;
+    margin-left: 20px;
+    padding-left: 10px;
+    color: lightgreen;
+    display: inline-block;
+}
+
+.telephones {
+    color: lightgreen;
+    display: inline-block;
+}
+
+.pay {
+    display: inline-block;
+    margin-left: 250px;
+}
+
+.paylate {
+    width: 142px;
+    height: 58px;
+}
+
+.contacts {
+    display: inline-block;
+}
+
+.red-tephone {
+    color: red;
+}
+
+.content {
+    width: 875px;
+    height: auto;
+    margin: auto;
+}
+
+.footer {
+    width: 875px;
+    height: 500px;
+    margin: auto;
+    background-image: url("/tourist/picture/footer.png");
+    margin-top: 0;
+    position: absolute;
+    z-index: 3;
+}
+
+.footer-info {
+    width: 875px;
+    margin: auto;
+}
